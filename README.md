@@ -51,7 +51,7 @@ socks5://user:pass@127.0.0.1:1080
 克隆存储库：
 
 ```bash
-git clone https://github.com/ziqing888/Depined-BOT.git
+git clone https://github.com/himiko3939/depined.git
 cd Depined-BOT
 ```
 安装依赖
